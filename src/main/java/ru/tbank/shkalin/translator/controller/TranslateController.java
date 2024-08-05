@@ -1,8 +1,8 @@
-package ru.tbank.controller;
+package ru.tbank.shkalin.translator.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RestController;
-import ru.tbank.service.TranslateService;
+import ru.tbank.shkalin.translator.service.TranslateService;
 
 @RestController
 public class TranslateController {

@@ -1,4 +1,4 @@
-package ru.tbank.service.translator;
+package ru.tbank.shkalin.translator.service.translator;
 
 public interface Translator {
 

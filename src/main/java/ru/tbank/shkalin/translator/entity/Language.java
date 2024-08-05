@@ -1,4 +1,4 @@
-package ru.tbank.entity;
+package ru.tbank.shkalin.translator.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -9,9 +9,9 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-public class User {
+public class Language {
 
     private Integer id;
-    private String ip;
+    private String language;
 
 }

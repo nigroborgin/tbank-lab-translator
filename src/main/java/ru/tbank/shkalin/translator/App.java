@@ -1,4 +1,4 @@
-package ru.tbank;
+package ru.tbank.shkalin.translator;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

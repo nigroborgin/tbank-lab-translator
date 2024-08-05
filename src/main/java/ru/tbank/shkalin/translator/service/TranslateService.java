@@ -1,4 +1,4 @@
-package ru.tbank.service;
+package ru.tbank.shkalin.translator.service;
 
 import org.springframework.stereotype.Service;
 

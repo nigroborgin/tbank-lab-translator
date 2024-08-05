@@ -1,6 +1,6 @@
-package ru.tbank.service.translator.impl;
+package ru.tbank.shkalin.translator.service.translator.impl;
 
-import ru.tbank.service.translator.ThirdPartyTranslator;
+import ru.tbank.shkalin.translator.service.translator.ThirdPartyTranslator;
 
 public class YandexThirdPartyTranslator extends ThirdPartyTranslator {
 

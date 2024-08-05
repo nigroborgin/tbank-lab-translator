@@ -1,4 +1,4 @@
-package ru.tbank.entity;
+package ru.tbank.shkalin.translator.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
