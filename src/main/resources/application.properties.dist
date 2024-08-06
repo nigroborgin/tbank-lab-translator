@@ -1,0 +1,6 @@
+yandex.token.iam=
+yandex.folder-id=
+yandex.url.translate=https://translate.api.cloud.yandex.net/translate/v2/translate
+
+server.port=8080
+server.servlet.context-path=/translator
