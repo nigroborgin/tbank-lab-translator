@@ -14,8 +14,8 @@ public class Translate {
     private Integer id;
     private User user;
     private Language sourceLanguage;
-    private Language translateLanguage;
-    private String sourceString;
-    private String translateString;
+    private Language targetLanguage;
+    private String sourceText;
+    private String translatedText;
 
 }

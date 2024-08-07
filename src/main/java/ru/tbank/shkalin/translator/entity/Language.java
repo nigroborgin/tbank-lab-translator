@@ -12,6 +12,6 @@ import lombok.NoArgsConstructor;
 public class Language {
 
     private Integer id;
-    private String language;
+    private String languageCode;
 
 }

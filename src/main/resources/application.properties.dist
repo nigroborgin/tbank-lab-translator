@@ -4,3 +4,8 @@ yandex.url.translate=https://translate.api.cloud.yandex.net/translate/v2/transla
 
 server.port=8080
 server.servlet.context-path=/translator
+
+db.url=
+db.username=
+db.password=
+db.driver=org.postgresql.Driver
