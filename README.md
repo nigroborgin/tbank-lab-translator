@@ -28,6 +28,7 @@
       - password - в `db.password=`  
 
 **При запуске из среды разработки:**
+
 4. В классе `src/main/java/ru/tbank/shkalin/translator/App.java` запустить метод `main(String[] args)`
 
 ## Использование
